@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\bin\Debug\net5.0\ChaneOfDependenci.exe
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\bin\Debug\net5.0\ChaneOfDependenci.deps.json
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\bin\Debug\net5.0\ChaneOfDependenci.runtimeconfig.json
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\bin\Debug\net5.0\ChaneOfDependenci.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\bin\Debug\net5.0\ChaneOfDependenci.dll
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\bin\Debug\net5.0\ref\ChaneOfDependenci.dll
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\bin\Debug\net5.0\ChaneOfDependenci.pdb
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\obj\Debug\net5.0\ChaneOfDependenci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\obj\Debug\net5.0\ChaneOfDependenci.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\obj\Debug\net5.0\ChaneOfDependenci.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\obj\Debug\net5.0\ChaneOfDependenci.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\obj\Debug\net5.0\ChaneOfDependenci.dll
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\obj\Debug\net5.0\ref\ChaneOfDependenci.dll
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\obj\Debug\net5.0\ChaneOfDependenci.pdb
+C:\Users\Admin\source\repos\LV6\ChaneOfDependenci\obj\Debug\net5.0\ChaneOfDependenci.genruntimeconfig.cache
